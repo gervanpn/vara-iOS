@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  VaraPlatform
-//
-//  Created by Gervan Nantel on 2020-10-09.
-//
+//DrT import
 
 import UIKit
 import CoreData

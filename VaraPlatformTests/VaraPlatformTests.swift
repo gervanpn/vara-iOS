@@ -1,9 +1,4 @@
-//
-//  VaraPlatformTests.swift
-//  VaraPlatformTests
-//
-//  Created by Gervan Nantel on 2020-10-09.
-//
+//DrT Friday Feb 25
 
 import XCTest
 @testable import VaraPlatform
